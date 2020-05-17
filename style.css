@@ -2,12 +2,19 @@
 div{
     background-color: salmon;
     width: 400px;
-    height:920px;
+    height: fixed;
     margin: 30px;
     padding: 20px;
     font-family: Arial, sans-serif;
     font-size: 28px;
     font-weight: bold;
+    border: 5px dotted black;
+}
+table{
+    border: 2px solid black;
+}
+th, td {
+    border: 1px solid black;
 }
 h1{
     color:green;
