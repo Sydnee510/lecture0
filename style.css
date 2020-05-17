@@ -1,5 +1,17 @@
-
+body{
+    background-color: gray;
+}
 h1{
     color:green;
     text-align: center;  
+}
+div{
+    color: red;
+}
+ul li {
+    color: purple;
+}
+
+ol li{
+    color: blue;
 }
