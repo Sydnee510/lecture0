@@ -12,9 +12,19 @@ div{
 }
 table{
     border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
 }
 th, td {
     border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    color: sienna;
+}
+td{
+    color: silver;
 }
 h1{
     color:green;
